@@ -65,7 +65,7 @@ class CategoriesWidgets extends StatelessWidget {
                   title,
                   textAlign: TextAlign.center,
                   style: appStyle(
-                    12, // Adjust text size dynamically using ScreenUtil
+                    10, // Adjust text size dynamically using ScreenUtil
                     Colors.black,
                     FontWeight.normal,
                   ),
